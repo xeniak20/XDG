@@ -25,7 +25,7 @@ Folgende Komponenten müssen lokal installiert sein:
 
 Um das Projekt lokal auszuführen, folgendes in der Commandline / Bash eingeben:
 ```console
-$ git clone (https://github.com/xeniak20/XDG) udg-probeaufgabe
+$ git clone https://github.com/xeniak20/XDG udg-probeaufgabe
 $ cd udg-probeaufgabe
 $ npm install
 $ npm run start
